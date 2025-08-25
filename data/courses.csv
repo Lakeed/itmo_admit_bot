@@ -1,0 +1,6 @@
+name,semester,kind,hours,program,tags
+Machine Learning,1,обяз.,4 з.е.,AI,['ml']
+Deep Learning,2,электив,3 з.е.,AI,['dl']
+Computer Vision,2,электив,3 з.е.,AI,['cv']
+NLP,2,электив,3 з.е.,AI_PRODUCT,['nlp']
+Product Management for AI,1,обяз.,4 з.е.,AI_PRODUCT,['product']

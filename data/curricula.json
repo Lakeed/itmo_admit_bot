@@ -1,0 +1,56 @@
+{
+  "AI": [
+    {
+      "name": "Machine Learning",
+      "semester": 1,
+      "kind": "обяз.",
+      "hours": "4 з.е.",
+      "program": "AI",
+      "tags": [
+        "ml"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "semester": 2,
+      "kind": "электив",
+      "hours": "3 з.е.",
+      "program": "AI",
+      "tags": [
+        "dl"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "semester": 2,
+      "kind": "электив",
+      "hours": "3 з.е.",
+      "program": "AI",
+      "tags": [
+        "cv"
+      ]
+    }
+  ],
+  "AI_PRODUCT": [
+    {
+      "name": "NLP",
+      "semester": 2,
+      "kind": "электив",
+      "hours": "3 з.е.",
+      "program": "AI_PRODUCT",
+      "tags": [
+        "nlp"
+      ]
+    },
+    {
+      "name": "Product Management for AI",
+      "semester": 1,
+      "kind": "обяз.",
+      "hours": "4 з.е.",
+      "program": "AI_PRODUCT",
+      "tags": [
+        "product"
+      ]
+    }
+  ]
+}
