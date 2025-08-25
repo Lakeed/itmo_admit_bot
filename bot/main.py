@@ -8,6 +8,10 @@ from aiogram.types import Message
 from .nlp import Catalog, detect_intent, background_to_tags, recommend
 from .replies import HELP_TEXT, COMPARE_TEXT, OFFTOPIC_TEXT
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 if not BOT_TOKEN:
